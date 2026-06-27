@@ -18,4 +18,6 @@ Bu proje; kitapların, üyelerin ve ödünç alma süreçlerinin yönetimini dij
 Projenin çalışabilmesi için gerekli olan MSSQL veritabanı şeması (Script dosyası) proje klasöründeki `database.sql`  dosyasında yer almaktadır. SQL Server'da bu scripti çalıştırarak veritabanını otomatik oluşturabilirsiniz.
 
 ## 📸 Ekran Görüntüleri
-![Kütüphane Ana Ekranı](KLASÖR_YOLU/ana-ekran.png)
+![Kütüphane Ana Ekranı](images/uye.png)
+![Kütüphane Ana Ekranı](images/odunc.png)
+![Kütüphane Ana Ekranı](images/takip.png)
