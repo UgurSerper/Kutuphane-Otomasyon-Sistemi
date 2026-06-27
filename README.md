@@ -15,7 +15,7 @@ Bu proje; kitapların, üyelerin ve ödünç alma süreçlerinin yönetimini dij
 * **IDE:** Visual Studio 2026 / SQL Server Management Studio (SSMS)
 
 ## 🗄️ Veritabanı Kurulumu
-Projenin çalışabilmesi için gerekli olan MSSQL veritabanı şeması (Script dosyası) proje klasöründeki `database.sql`  dosyasında yer almaktadır. SQL Server'da bu scripti çalıştırarak veritabanını otomatik oluşturabilirsiniz.
+Projenin çalışabilmesi için gerekli olan MSSQL veritabanı şeması (Script dosyası) proje klasöründeki `kutuphane_db.sql`  dosyasında yer almaktadır. SQL Server'da bu scripti çalıştırarak veritabanını otomatik oluşturabilirsiniz.
 
 ## 📸 Ekran Görüntüleri
 
