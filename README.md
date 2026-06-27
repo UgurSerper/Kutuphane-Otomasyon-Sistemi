@@ -25,5 +25,5 @@ Projenin çalışabilmesi için gerekli olan MSSQL veritabanı şeması (Script 
 ### Ödünç Alma ve Teslim İşlemleri
 ![Ödünç İşlemleri](images/odunc.png)
 
-### Kitap ve Stok Takibi
+### Takip ve Iade Ekrani
 ![Stok Takibi](images/takip.png)
